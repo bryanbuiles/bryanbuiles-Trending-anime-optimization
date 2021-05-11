@@ -1,1 +1,0 @@
-# bryanbuiles-Trending-anime-optimization
