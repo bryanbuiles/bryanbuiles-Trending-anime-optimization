@@ -1,4 +1,4 @@
-# Proyecto Curso de Optimización Web Platzi
+# Proyecto Curso de Optimización Web 
 
 ### 🚀 Optimizaciones aplicadas
 
