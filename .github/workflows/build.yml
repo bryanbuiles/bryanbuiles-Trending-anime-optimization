@@ -14,5 +14,5 @@ jobs:
     name: Request Netlify Webhook
     runs-on: ubuntu-latest
     steps:
-      - name: Ping # manda una ping para ejecutar el refresh de nuestra app solo desde nuestro github
-        run: curl -X POST -d {} https://api.netlify.com/build_hooks/609ac54d647adc00aa4975c0
+      - name: Ping
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/5edca83478745263425750d1
